@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(to right, #f12711, #f5af19);
+   }
+   #show_sketch{
+       float:right;
+       margin-right:20px;
+   }
+   h1{
+       background: linear-gradient(to right, #00f260, #0575e6);
+       padding:15px;
+       border-radius: 40px;
+   }
+   p{
+       font-size:25px ;
+       color:blue;
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       font-weight:1000;
+   }
+   canvas{
+       border-style:dashed;
+       border-color:black;
+       border-radius:40px;
+       border-width:5px;
+       animation-name: example;
+       animation-duration: 4s;
+       margin-top: 50px;
+       animation-iteration-count:infinite;
+       
+   }
+#timertag{
+float:right;
+margin-right: 20px;
+       }
+ #scoretag{
+float:left;
+margin-left: 20px;
+           }
+
+            
+         
